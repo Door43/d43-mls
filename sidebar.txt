@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mls:home|Door43 (mls)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mls|d43-mls repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mls/archive/master.zip|d43-mls.zip]]
+
+**Recent Changes**
+{{changes>ns = mls}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mls|Ethnologue data]]
+
